@@ -85,7 +85,6 @@ function itemPulled(rateOne, rateTwo) {
 
 ///testing the html website thing WIP
 /*function showTextAndRunCode() {
-    // Text to be displayed
     let lines = [
         "Total Pulls: " + totalPull,
         "Total Spent: $" + totalSpent,
@@ -93,14 +92,11 @@ function itemPulled(rateOne, rateTwo) {
         "After viewing your stats, the consensus is that your luck is: GARBAGE WTF!!!!!"
     ];
 
-    // Get the div element and set its content
     let textElement = document.getElementById("displayText");
     textElement.innerHTML = lines.join('<br>');
 
-    // Display the hidden text
     textElement.style.display = "block";
 
-    // Additional code to run when the button is pressed
 }
 */
 
